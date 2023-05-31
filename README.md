@@ -1,4 +1,3 @@
-I want to copy your code.
 
 <!---
 Yuta-Faiva/Yuta-Faiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
